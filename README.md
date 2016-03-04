@@ -1,2 +1,3 @@
 # Calculator
-Implemented in assembly!
+Implemented in assembly using MIPS!
+
